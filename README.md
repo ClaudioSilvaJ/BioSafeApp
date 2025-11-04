@@ -23,8 +23,8 @@ O sistema oferece desde o **registro de coletas e medições laboratoriais** at�
 ---
 
 ## 🧰 Tecnologias Utilizadas  
-**Backend:** Java 8 (JAX-RS)
-**Frontend:** React / TypeScript  
+**Backend:** Java 8 (JAX-RS)  
+**Frontend:** React Native  
 **Banco de Dados:** MongoDB  
 **Outros:** Docker Compose, REST API, JWT Auth  
 
